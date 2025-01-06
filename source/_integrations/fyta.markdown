@@ -46,7 +46,7 @@ The integration has no additional configuration options.
 
 ### Binary sensors
 
-The following sensors are currently available per plant:
+The following binary sensors are currently available per plant:
 
 - Low battery
 - Light notification
