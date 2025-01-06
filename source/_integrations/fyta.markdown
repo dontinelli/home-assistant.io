@@ -53,8 +53,9 @@ The following sensors are currently available per plant:
 - Nutrition notification
 - Temperature notification
 - Water notification
-- Water notification
+- Productive plant
 - Repotted
+- Sensor update available
 
 ### Sensors
 
